@@ -1,16 +1,18 @@
-### Hi there 👋
+<!-- https://github.com/anuraghazra/github-readme-stats -->
 
-<!--
-**ssk910/ssk910** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <!-- Readme images -->
+  <div align="center">
+    <!-- Top languages -->
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssk910&layout=donut&show_icons=true&theme=gruvbox&count_private=true&exclude_repo=" width=38% />
+    &nbsp;
+    <!-- Stats -->
+    <img src="https://github-readme-stats.vercel.app/api?username=ssk910&show_icons=true&theme=gruvbox&count_private=true" width=56% />
+  </div>
+  
+  <!--
+  <div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ssk910&theme=gruvbox&bg_color=282828&hide_border=true&count_private=true" width=94%/>
+  </div>
+  -->
+</div>
