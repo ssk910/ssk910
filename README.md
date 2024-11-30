@@ -4,10 +4,10 @@
   <!-- Readme images -->
   <div align="center">
     <!-- Top languages -->
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssk910&layout=donut&show_icons=true&theme=gruvbox&count_private=true&exclude_repo=" width=38% />
+<!--     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssk910&layout=donut&show_icons=true&theme=gruvbox&count_private=true&exclude_repo=" width=38% /> -->
     &nbsp;
     <!-- Stats -->
-    <img src="https://github-readme-stats.vercel.app/api?username=ssk910&show_icons=true&theme=gruvbox&count_private=true" width=56% />
+<!--     <img src="https://github-readme-stats.vercel.app/api?username=ssk910&show_icons=true&theme=gruvbox&count_private=true" width=56% /> -->
   </div>
   
   <!--
